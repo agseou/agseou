@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center><h1>🍀안녕하서우🐰</h1></div>
+<hr>
+<div align=center>
+  
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seous2)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agseou)
+</div>
