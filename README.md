@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **agseou/agseou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,28 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>🍀안녕하서우🐰</h1>
-<hr>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fagseou%2Fhit-counter&count_bg=%23FFBABA&title_bg=%23FF4F96&icon=&icon_color=%23FF9696&title=%F0%9F%91%80&edge_flat=false)
+<div align="center">
+<h2>🍀안녕하서우🐰</h2>
 
-* 2002.12.25
-* 서울 <-> 일산 🚌
-
-<hr>
+<h3>SNS</h3>
+<a href="https://agseou.tistory.com/notice/23"><img src="https://img.shields.io/badge/서우의 성장일기-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agseou)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agseou&layout=compact)
-
-<hr>
-
-## 🌱 Baekjoon 공부🥸
-
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seous2)
+<h3>WHAT I STUDIED</h3>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3775A9?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 
 
-👉 2023.5.30부터 공부하기 시작했어요 🐥
+<h3>🌱PS</h3> 
+<a href="https://solved.ac/profile/seous2"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seous2"></a>
 
-👉 c++로 공부해요
+🧑‍💻 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  <sub>(2023.05.30 ~ )</sub>
+
+</div>
