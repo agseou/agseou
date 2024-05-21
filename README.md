@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 <br>
 <h3>Experience</h3>
-• SeSAC iOS 4th 🌱
+• SeSAC iOS 4th 🌱 <br>
+• YAPP 24th <br>
 <br>
-
 <h3>🌱PS</h3> 
 <a href="https://solved.ac/profile/seous2"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seous2"></a>
 
-🧑‍💻 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  <sub>(2023.05.30 ~ )</sub>
-
+🧑‍💻 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
 </div>
