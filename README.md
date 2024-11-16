@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 <h3>Experience</h3>
 • SeSAC iOS 4th 🌱 <br>
-• YAPP 24th <br>
+
 <br>
 <h3>🌱PS</h3> 
 <a href="https://solved.ac/profile/seous2"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seous2"></a>
